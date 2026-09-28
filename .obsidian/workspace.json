@@ -11,10 +11,14 @@
             "id": "27b014f2aabb1a63",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "后端/Java/07 异常、断言与日志.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "07 异常、断言与日志"
             }
           }
         ]
@@ -182,5 +186,14 @@
     }
   },
   "active": "27b014f2aabb1a63",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Pasted image 20260928162455.png",
+    "后端/Java/08 泛型.md",
+    "后端/Java/07 异常、断言与日志.md",
+    "后端/Java/06 反射.md",
+    "后端/Kafka/2 消费者.md",
+    "后端/Kafka/3 管理 Kafka.md",
+    "后端/Kafka/1 生产者.md",
+    "后端/Kafka/0 基本概念.md"
+  ]
 }
